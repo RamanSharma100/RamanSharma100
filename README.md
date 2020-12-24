@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my projects**
 
-- 🌱 I’m currently learning **C Sharp (C#)**
+- 🌱 I’m currently learning **C Sharp (C#)** and **Angular**
 
 - 👯 I’m looking to collaborate on **my Dream project**
 
