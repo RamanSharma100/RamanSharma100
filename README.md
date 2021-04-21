@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my projects**
 
-- 🌱 I’m currently learning **JAVA** and **Django**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **my Dream project**
 
