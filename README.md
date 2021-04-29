@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **my projects**
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👯 I’m looking to collaborate on **my Dream project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamanSharma100](https://github.com/RamanSharma100)
