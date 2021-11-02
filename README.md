@@ -23,4 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramansharma100&show_icons=true&locale=en" alt="ramansharma100" /></p>
 
+<p float="left">
+  
+  <a href="https://github.com/ramansharma100"><img src="https://github-profile-trophy.vercel.app/?username=ramansharma100" alt="ramansharma100" /></a>
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramansharma100&" alt="ramansharma100" /></p>
