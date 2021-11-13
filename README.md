@@ -18,6 +18,7 @@
 <a href="https://www.youtube.com/c/fullyworld web tutorials" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="fullyworld web tutorials" height="30" width="40" /></a>
 </p>
 
+![Activity](https://activity-graph.herokuapp.com/graph?username=ramansharma100&theme=xcode)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramansharma100&show_icons=true&locale=en&layout=compact" alt="ramansharma100" /></p>
 
