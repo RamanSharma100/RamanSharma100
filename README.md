@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansharma100&label=Profile%20views&color=0e75b6&style=flat" alt="ramansharma100" /> </p>
 
-- 🔭 I’m currently working on **my projects**
+- 🔭 I’m currently working on **Adv TS and Web development with JAVA**
 
-- 👯 I’m looking to collaborate on **my Dream project**
+- 👯 I’m looking to collaborate on **my dream project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamanSharma100](https://github.com/RamanSharma100)
 
