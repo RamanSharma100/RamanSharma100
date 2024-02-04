@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramansharma100&label=Profile%20views&color=0e75b6&style=flat" alt="ramansharma100" /> </p>
 
-- 🔭 I’m currently working on **Adv TS and DevOPS**
+- 🔭 I’m currently working on **Rust**
 
 - 👯 I’m looking to collaborate on **my dream project**
 
