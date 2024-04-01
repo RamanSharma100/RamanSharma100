@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rust** and **Nodejs Libraries**
 
-- 👯 I’m looking to collaborate on **my dream project**
+- 👯 I’m looking to collaborate on **LLM Models for Voice Controlled Websites**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamanSharma100](https://github.com/RamanSharma100)
 
